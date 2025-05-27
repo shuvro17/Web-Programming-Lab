@@ -1,0 +1,81 @@
+*{
+    text-align: center;
+    
+    
+    
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-image: url('images/college-9010619_1920.jpg'); 
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-position: center; 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+input{
+    padding: 3px;
+    box-shadow: 3px ;
+    
+}
+#h1{
+    color: tomato;
+}
+#fname{
+    color: crimson;
+}
+#lname{
+    color: crimson;
+}
+#password{
+    color: red;
+}
+#color{
+    color: teal;
+}
+#info{
+    color: steelblue;
+}
+#button{
+    background-color: tomato;
+    border: none;
+    color: white;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    
+}
+#form1{
+    border: 5px solid black;
+    position: absolute;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+    left: 82%;
+    top: 18%;
+    transform: translateX(-50%);
+    width: 300px;
+    background-color: antiquewhite;
+    
+    
+}
+#sec1{
+    text-align: left;
+    color: brown;
+}
+#sec2{
+    text-align: right;
+    color: sandybrown;
+}
+#h1{
+    text-align: center;
+    border: 5px solid black;
+    margin-right: 30%;
+    margin-left: 30%;
+    border-radius: 10px;
+    color: rgb(252, 0, 76);
+    font-weight: bold;
+}
